@@ -1,0 +1,25 @@
+:root {
+    --background-color: #EBECEE;
+    --titlecard-color: #FFFFFF;
+
+}
+
+body {
+    background-color: var(--background-color);
+
+}
+
+h1 {
+    background-color: var(--titlecard-color);
+
+}
+
+
+
+
+
+
+
+
+
+
